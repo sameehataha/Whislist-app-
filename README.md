@@ -29,23 +29,7 @@ A simple, elegant wishlist/todo application built with vanilla JavaScript, HTML,
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 - No additional installations required
 
-### Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/wishlist-app.git
-```
-
-2. Navigate to the project directory:
-```bash
-cd wishlist-app
-```
-
-3. Open `index.html` in your web browser:
-```bash
-open index.html
-```
-Or simply double-click the `index.html` file.
 
 ## Usage
 
@@ -54,15 +38,6 @@ Or simply double-click the `index.html` file.
 3. **Deleting Items**: Click the delete icon (🗑️) next to any item to remove it
 4. **Persistence**: Your items are automatically saved and will be there when you return
 
-## File Structure
-
-```
-wishlist-app/
-├── index.html          # Main HTML structure
-├── index.js            # JavaScript functionality
-├── style.css           # Custom styles and theme
-└── README.md           # This file
-```
 
 ## Key Features Explained
 
@@ -108,9 +83,7 @@ The app uses the UI Light component library. You can override styles or add cust
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
